@@ -1,0 +1,5 @@
+name: Autosell
+version: ${project.version}
+main: me.ronthecookie.autosell.Autosell
+api-version: 1.13
+depend: [Vault]
